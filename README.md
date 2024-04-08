@@ -1,2 +1,2 @@
 # git-practice
-repo from practicing git cmds
+repo for practicing git cmds
